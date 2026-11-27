@@ -6,4 +6,4 @@ const car = {
 };
 
 // Display Data from the Object:
-document.getElementById("demo").innerHTML = "The car type,  model and color is " + car.type +" "  +car.model+" "  +car.color ;
+document.getElementById("demo2").innerHTML = "The car type,  model and color is " + car.type +" "  +car.model+" "  +car.color ;
